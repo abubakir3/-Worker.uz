@@ -1,0 +1,6 @@
+{
+  "name": "Ishchi.uz - O'zbekiston Ish va Xodimlar Platformasi",
+  "description": "Ishchi.uz — ish beruvchilar va ish izlovchilarni birlashtiradigan zamonaviy, ishonchli O'zbekiston ish bozori platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
